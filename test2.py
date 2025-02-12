@@ -31,7 +31,7 @@ vegetables = ['Beetroot', 'Cabbage', 'Capsicum', 'Carrot', 'Cauliflower', 'Corn'
               'Tomato', 'Turnip']
 
 # Gemini API configuration
-genai.configure(api_key="AIzaSyBV0liOMF_rR0h3MN3KXKC1pdtVuE7kgvY")
+genai.configure(api_key="GOOGLE API KEY")
 
 # Load MiDaS depth estimation model
 midas = torch.hub.load("intel-isl/MiDaS", "MiDaS_small")
