@@ -39,7 +39,7 @@ You are an expert in nutritionist where you need to see the food items from the 
 
 """
 
-genai.configure(api_key="AIzaSyBV0liOMF_rR0h3MN3KXKC1pdtVuE7kgvY")
+genai.configure(api_key="GOOGLE API KEY")
 
 
 def fetch_calories(prediction):
